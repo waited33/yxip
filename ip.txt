@@ -1,14 +1,10 @@
-104.19.83.205
-45.159.217.250
-45.159.219.147
-23.227.60.237
-91.195.110.185
-31.12.75.149
-69.84.182.121
-45.80.111.71
-31.43.179.198
-45.142.120.178
-45.159.217.239
-63.141.128.59
-
-
+104.16.0.219#US#Cloudflare
+198.62.62.66#US#Health Market Science
+208.103.161.55#US#NOTION
+135.84.72.87#US#Ultimate Software Group
+135.84.64.98#US#Ultimate Software Group
+104.254.140.230#US#Cloudflare London
+199.181.197.35#US#Cloudflare London
+192.206.179.206#US#Oshkosh Corporation
+160.153.0.184#US#Cloudflare London
+108.162.192.67#US#Cloudflare
